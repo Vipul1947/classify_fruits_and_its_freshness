@@ -3,9 +3,9 @@
 ## Description
 
 I had made an interactive web app so as to classify fruits into :-
-1.) Apple
-2.) Banana 
-3.) Orange
+1.) Apple<br>
+2.) Banana <br>
+3.) Orange<br>
 Also it tells whether the fruit is fresh/rotten and to implement this webapp we had used Flask (a framework of Python), which uses a convolution neural network on the back end to perform the above classification.
 
 
