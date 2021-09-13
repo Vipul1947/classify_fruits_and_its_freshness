@@ -2,7 +2,7 @@
 
 ## Description
 
-I had made an interactive web app so as to classify fruits into :-
+I had made an interactive web app so as to classify fruits into :-<br>
 1.) Apple<br>
 2.) Banana <br>
 3.) Orange<br>
