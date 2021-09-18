@@ -11,6 +11,9 @@ Also it tells whether the fruit is fresh/rotten and to implement this webapp we 
 
 **The application is available at:** https://classify-fresh-fruit-by-vipul.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/56962974/133896624-ed0c4e30-785a-48dc-a008-c4d525da892e.png)
+
+
 ### Dependencies
 
 For this project, the following tools were used:
