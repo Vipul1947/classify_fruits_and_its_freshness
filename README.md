@@ -34,7 +34,7 @@ The dataset used for training and evaluating the model: (https://www.kaggle.com/
 <br>
 To install and run locally in local host :
 ```bash
-git clone https://github.com/Vipul1947/classify_fruits_and_its_freshness.git
+git clone https://github.com/Vipul1947/classify_fruits_and_its_freshness
 cd classify_fruits_and_its_freshness
 pip install -r requirements.txt
 python app.py
