@@ -26,7 +26,7 @@ For this project, the following tools were used:
 
 ### Dataset for training
 
-The dataset used for training and evaluating the model: [Fruits fresh and rotten for classification](https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification) by Sriram Reddy Kalluri. The obtained model has achieved 99% accuracy on the test set.
+The dataset used for training and evaluating the model: (https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification) by Sriram Reddy Kalluri. The obtained model has achieved 99% accuracy on the test set.
 
 
 ## Install and Run in local host :
