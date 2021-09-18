@@ -13,7 +13,7 @@ Also it tells whether the fruit is fresh/rotten and to implement this webapp we 
 <br>
 <br>
 <h2> Model</h2>
-![image](https://user-images.githubusercontent.com/56962974/133896624-ed0c4e30-785a-48dc-a008-c4d525da892e.png)
+<img src="https://user-images.githubusercontent.com/56962974/133896624-ed0c4e30-785a-48dc-a008-c4d525da892e.png"></img>
 
 The network itself was implemented using **transfer learning**. The MobileNet V2 model developed at Google was used as a base model for feature extraction from our data. A custom classification layer was added on top and trained separately. You can learn more about this approach [here](https://www.tensorflow.org/tutorials/images/transfer_learning). The notebook I used to implement the model on Google Colab can be found [here](https://github.com/Vipul1947/classify_fruits_and_its_freshness/blob/main/notebooks/FruitNetTransferLearning.ipynb).
 <br><br>
