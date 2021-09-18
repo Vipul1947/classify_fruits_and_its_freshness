@@ -45,7 +45,7 @@ For this project, the following tools were used:
 
 ![image](https://user-images.githubusercontent.com/56962974/133898085-a94be700-06a2-42f3-89fc-eaf3143ed011.png)
 
-<br><br>
+<br>
 
 <h2> Install and run on local host</h2>
 
