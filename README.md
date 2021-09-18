@@ -1,6 +1,6 @@
-# Classify fruits and check their freshness 
-<br>
-## Description
+<h1> Classify fruits and check their freshness </h1>
+ <br>
+<h2> Description</h2>
 
 I had made an interactive web app so as to classify fruits into :
 
