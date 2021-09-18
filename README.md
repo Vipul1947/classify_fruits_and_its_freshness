@@ -28,21 +28,13 @@ The dataset used for training and evaluating the model: [Fruits fresh and rotten
 
 The network itself was implemented using **transfer learning**. The MobileNet V2 model developed at Google was used as a base model for feature extraction from our data. A custom classification layer was added on top and trained separately. You can learn more about this approach [here](https://www.tensorflow.org/tutorials/images/transfer_learning). The notebook I used to implement the model on Google Colab can be found [here](https://github.com/AlexanderKlanovets/fruitnet/blob/master/notebooks/FruitNetTransferLearning.ipynb).
 
-## Install locally
+## Install and Run in local host :
 
-To install and run locally in a production mode:
+To install and run locally in local host :
 
 ```bash
-git clone https://github.com/AlexanderKlanovets/fruitnet
-cd fruitnet
+git clone https://github.com/Vipul1947/classify_fruits_and_its_freshness.git
+cd classify_fruits_and_its_freshness
 pip install -r requirements.txt
 python app.py
-```
-
-Another way is to run the app with Docker:
-```bash
-git clone https://github.com/AlexanderKlanovets/fruitnet
-cd fruitnet
-sudo docker build -t <image_name> .
-sudo docker run -p 5000:5000 <image_name>
 ```
