@@ -30,8 +30,10 @@ For this project, the following tools were used:
 The dataset used for training and evaluating the model: (https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification) by Sriram Reddy Kalluri. The obtained model has achieved 99% accuracy on the test set.
 <br>
 <br>
-## Install and Run in local host :
-To install and run locally in local host :
+## Install and run on local host
+
+To install and run local host:
+
 ```bash
 git clone https://github.com/Vipul1947/classify_fruits_and_its_freshness.git
 cd classify_fruits_and_its_freshness
