@@ -9,7 +9,7 @@ I had made an interactive web app so as to classify fruits into :-<br>
 Also it tells whether the fruit is fresh/rotten and to implement this webapp we had used Flask (a framework of Python), which uses a convolution neural network on the back end to perform the above classification.
 <br>
 <br>
-# **LIVE LINK :** https://classify-fresh-fruit-by-vipul.herokuapp.com/
+ **LIVE LINK :** https://classify-fresh-fruit-by-vipul.herokuapp.com/
 <br>
 <br>
 ## Model
