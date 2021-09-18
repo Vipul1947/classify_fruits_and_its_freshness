@@ -1,5 +1,5 @@
 # Classify fruits and check their freshness 
-
+<br>
 ## Description
 
 I had made an interactive web app so as to classify fruits into :
